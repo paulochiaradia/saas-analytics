@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS webhook_endpoints CASCADE;
+DROP TABLE IF EXISTS api_keys CASCADE;
