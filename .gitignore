@@ -1,0 +1,11 @@
+# Variáveis de ambiente
+.env
+
+# Volumes do Docker (Dados do banco, redis, rabbitmq)
+.docker-volumes/
+
+# Logs e caches
+*.log
+__pycache__/
+node_modules/
+
